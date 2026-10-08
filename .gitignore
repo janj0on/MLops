@@ -1,0 +1,14 @@
+# MLflow
+mlruns/
+mlflow.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
